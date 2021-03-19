@@ -1,0 +1,14 @@
+.container
+{
+	position: absolute;
+	transform: translateX(23%) translateY(10%);
+}
+
+
+
+.card-title
+{
+	text-align: center;
+	font-family: 'Fredoka One', cursive;
+	font-size: 40px;
+}
